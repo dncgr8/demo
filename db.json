@@ -8,10 +8,5 @@
   "test6": {
     "test7": "test7",
     "test10": ["test11", {"test12" : "last Test"}]
-  },
-  "test11": {
-  "test7": "test11-7",
-  "test10": ["test10-11"]
-  },
-  "test8": ["test8-9", "test8-10"]
+  }
 }
